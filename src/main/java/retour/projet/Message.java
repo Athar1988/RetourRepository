@@ -10,6 +10,9 @@ public class Message {
 		int x=5;
 		int y=6;
 		System.out.println(A.somme(x, y));
+		int x1=15;
+		int y1=16;
+		System.out.println(A.somme(x1, y1));
 	}
 
 }
