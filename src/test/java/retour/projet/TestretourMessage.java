@@ -13,5 +13,10 @@ public class TestretourMessage {
 
 assertEquals(10,A.somme(8, 2));
 	}
+	public void test2() {
+		Affichage A= new Affichage();
+
+assertEquals(13,A.somme(8, 5));
+	}
 
 }
